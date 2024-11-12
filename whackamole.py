@@ -1,6 +1,8 @@
 import pygame
 import random
 
+#hello
+
 def main():
     x = 0
     y = 0
